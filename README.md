@@ -1,2 +1,2 @@
-# balance_monitor.py
-balance_monitor.py
+# Balance Monitor Utility
+A simulated blockchain interaction tool designed to query and retrieve balances for specific EVM-compatible addresses.
